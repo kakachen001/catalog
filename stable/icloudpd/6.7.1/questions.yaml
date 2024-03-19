@@ -315,7 +315,7 @@ questions:
                 description: Web
         - variable: icloud_china
           label: iCloud China
-          description: Set this to true to use icloud.com.cm instead of icloud.com as the download source.
+          description: Set this to true to use icloud.com.cn instead of icloud.com as the download source.
           schema:
             type: boolean
             default: true
